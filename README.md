@@ -9,5 +9,6 @@ The profile card is a basic representation of a user profile.
 
 - HTML
 - CSS
-##Preview here
+
+## Preview here
 click [here](https://aungminthant9.github.io/profile_card/).
